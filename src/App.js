@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          teste - deploy react 1
+          teste - deploy react 2
         </p>
       </header>
     </div>
